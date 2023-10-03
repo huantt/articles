@@ -22,20 +22,20 @@ jobs:
       - name: Collect
         run: |
           article-as-code collect \
-          --username=jacktt \
+          --username=${{ secrets.DEVTO_USERNAME }} \
           --article-folder=articles
       - name: Sync to dev.to
         run: |
           article-as-code sync \
-          --username=jacktt \
+          --username=${{ secrets.DEVTO_USERNAME }} \
           --auth-token=${{ secrets.DEVTO_TOKEN }} \
           --article-folder=articles \
           --destination="dev.to"
       - name: Sync to hashnode.dev
         run: |
           article-as-code sync \
-          --username=jacktt \
-          --auth-token=${{ secrets.HASHNODE_TOKEN }} \
+          --username=${{ secrets.DEVTO_USERNAME }} \
+          --auth-token=${{ secrets.HASHNODE_USERNAME }} \
           --article-folder=articles \
           --destination="hashnode.dev"
       - name: Commit
