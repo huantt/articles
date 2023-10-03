@@ -1,0 +1,40 @@
+version: '3.1'
+
+services:
+  collect:
+    image: huanttok/article-as-code:latest
+    volumes:
+      - ./articles:/app/articles
+    command:
+      - collect
+      - --username=jacktt
+      - --article-folder=/app/articles
+
+  sync-to-hashnode:
+    image: huanttok/article-as-code:latest
+    volumes:
+      - ./articles:/app/articles
+    command:
+      - sync
+      - --username=jacktt
+      - --destination=hashnode.dev
+      - --auth-token="$HASHNODE_AUTH_CODE"
+      - --article-folder=/app/articles
+    depends_on:
+      - collect
+
+#  sync-to-devto:
+#    image: huanttok/article-as-code:latest
+#    volumes:
+#      - ./articles:/app/articles
+#    command:
+#      - sync
+#      - --username=jacktt
+#      - --destination=hashnode.dev
+#      - --auth-token="$DEVTO_AUTH_CODE"
+#      - --article-folder=/app/articles
+#    depends_on:
+#      - collect
+secrets:
+  auth:
+    file: ./.secrets.txt
