@@ -1,5 +1,5 @@
 ## About
-This is the "single source of trust" that stores all my articles.
+This is the "single source of truth" that stores all my articles.
 
 It utilizes [huantt/article-as-code](https://github.com/huantt/article-as-code) to collect, store, and sync all my articles to various platforms, including [dev.to](https://dev.to) and [hashnode.dev](https://hashnode.dev).
 
