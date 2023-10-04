@@ -34,8 +34,8 @@ jobs:
       - name: Sync to hashnode.dev
         run: |
           article-as-code sync \
-          --username=${{ secrets.DEVTO_USERNAME }} \
-          --auth-token=${{ secrets.HASHNODE_USERNAME }} \
+          --username=${{ secrets.HASHNODE_USERNAME }} \
+          --auth-token=${{ secrets.HASHNODE_TOKEN }} \
           --article-folder=articles \
           --destination="hashnode.dev"
       - name: Commit
