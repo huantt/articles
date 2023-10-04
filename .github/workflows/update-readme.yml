@@ -22,7 +22,7 @@ jobs:
       - name: Collect articles
         run: |
           go install github.com/huantt/article-listing@latest
-          article-listing update-articles --username=jacktt --template-file='templates/articles.md.tpl' --out-file='.tmp/articles.md.tpl' --limit=5
+          article-listing update-articles --username=jacktt --template-file='templates/README.md.tpl' --out-file='README.md' --limit=5
       - name: Commit
         run: |
           git config user.name github-actions
