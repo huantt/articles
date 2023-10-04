@@ -24,6 +24,7 @@ jobs:
           article-as-code collect \
           --username=${{ secrets.DEVTO_USERNAME }} \
           --article-folder=articles
+          --rps=2
       - name: Sync to dev.to
         run: |
           article-as-code sync \
