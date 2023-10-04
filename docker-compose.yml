@@ -35,6 +35,16 @@ services:
       - --article-folder=/app/articles
     depends_on:
       - collect
+
+  update-article-list:
+    image: huanttok/article-listing:latest
+    volumes:
+      - ./templates:/app/templates
+    command:
+      - --limit=5
+      - --username="$DEVTO_USERNAME"
+      - --template-file=templates/README.md.tpl
+      - --out-file=templates/README.md
 secrets:
   auth:
     file: ./.secrets.txt

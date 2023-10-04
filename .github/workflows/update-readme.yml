@@ -1,0 +1,32 @@
+name: "Cronjob"
+on:
+  schedule:
+    - cron: '15 */6 * * *'
+  push:
+    branches:
+      - 'main'
+
+jobs:
+  update-readme:
+    permissions: write-all
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-go@v4
+        with:
+          go-version: '1.21.0'
+      - name: Prepare
+        run: |
+          export PATH=$PATH:$(go env GOPATH)/bin
+          mkdir .tmp
+      - name: Collect articles
+        run: |
+          go install github.com/huantt/article-listing@latest
+          article-listing update-articles --username=jacktt --template-file='templates/articles.md.tpl' --out-file='.tmp/articles.md.tpl' --limit=5
+      - name: Commit
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add .
+          git commit -m "update"
+          git push origin main
