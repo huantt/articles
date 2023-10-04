@@ -45,3 +45,14 @@ Run the following command:
 ```shell
 docker-compose up
 ```
+
+## Sequence Diagram
+```mermaid
+sequenceDiagram
+This repo ->> Dev.to: Get articles
+Dev.to -->> This repo: Articles
+This repo ->> This repo: Store articles as code
+This repo ->> Dev.to: Sync articles
+This repo ->> Hashnode.dev: Sync articles
+This repo ->> Github: Commit
+```
