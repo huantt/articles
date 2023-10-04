@@ -18,7 +18,7 @@ jobs:
       - name: Prepare
         run: export PATH=$PATH:$(go env GOPATH)/bin
       - name: Install
-        run: go install github.com/huantt/article-as-code@v1.0.4
+        run: go install github.com/huantt/article-as-code@v1.0.5
       - name: Collect
         run: |
           article-as-code collect \
