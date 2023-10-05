@@ -51,6 +51,6 @@ jobs:
             exit 0
           else
             git commit -m "update"
-            git rebase main
+            git pull --rebase
             git push origin main
           fi
