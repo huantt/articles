@@ -11,8 +11,20 @@ I have created a GitHub action in the `.github/workflows` directory that runs ev
 <table>
         <tr>
             <td width="300px">
+                <a href="https://dev.to/jacktt/showing-more-article-info-on-dailydev-277g">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1624491/thumbnail?t=2023-10-05%2012%3a44%3a39.799476761%20%2b0000%20UTC%20m%3d%2b0.131520517" alt="thumbnail">
+                </a>
+            </td>
+            <td>
+                <a href="https://dev.to/jacktt/showing-more-article-info-on-dailydev-277g">Showing more Article info on Daily.dev</a>
+                <div>Daily.dev is a very good extension that helps us aggregate news from several sources.  When...</div>
+                <div><i>05/10/2023</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px">
                 <a href="https://dev.to/jacktt/article-as-code-syncing-articles-between-devto-and-multiple-blogging-platforms-3hib">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1619274/thumbnail?t=2023-10-05%2006%3a28%3a40.769441079%20%2b0000%20UTC%20m%3d%2b0.321310346" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1619274/thumbnail?t=2023-10-05%2012%3a44%3a39.799476761%20%2b0000%20UTC%20m%3d%2b0.131520517" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -24,7 +36,7 @@ I have created a GitHub action in the `.github/workflows` directory that runs ev
         <tr>
             <td width="300px">
                 <a href="https://dev.to/jacktt/20x-faster-golang-docker-builds-289n">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1610649/thumbnail?t=2023-10-05%2006%3a28%3a40.769441079%20%2b0000%20UTC%20m%3d%2b0.321310346" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1610649/thumbnail?t=2023-10-05%2012%3a44%3a39.799476761%20%2b0000%20UTC%20m%3d%2b0.131520517" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -36,7 +48,7 @@ I have created a GitHub action in the `.github/workflows` directory that runs ev
         <tr>
             <td width="300px">
                 <a href="https://dev.to/jacktt/why-i-like-writing-technical-blogs-11nm">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1605751/thumbnail?t=2023-10-05%2006%3a28%3a40.769441079%20%2b0000%20UTC%20m%3d%2b0.321310346" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1605751/thumbnail?t=2023-10-05%2012%3a44%3a39.799476761%20%2b0000%20UTC%20m%3d%2b0.131520517" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -48,7 +60,7 @@ I have created a GitHub action in the `.github/workflows` directory that runs ev
         <tr>
             <td width="300px">
                 <a href="https://dev.to/jacktt/makding-dynamic-website-thumbnail-412k">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1606750/thumbnail?t=2023-10-05%2006%3a28%3a40.769441079%20%2b0000%20UTC%20m%3d%2b0.321310346" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1606750/thumbnail?t=2023-10-05%2012%3a44%3a39.799476761%20%2b0000%20UTC%20m%3d%2b0.131520517" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -57,23 +69,11 @@ I have created a GitHub action in the `.github/workflows` directory that runs ev
                 <div><i>21/09/2023</i></div>
             </td>
         </tr>
-        <tr>
-            <td width="300px">
-                <a href="https://dev.to/jacktt/survey-automatic-table-of-contents-in-devto-articles-4m1g">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1605720/thumbnail?t=2023-10-05%2006%3a28%3a40.769441079%20%2b0000%20UTC%20m%3d%2b0.321310346" alt="thumbnail">
-                </a>
-            </td>
-            <td>
-                <a href="https://dev.to/jacktt/survey-automatic-table-of-contents-in-devto-articles-4m1g">[Survey] Automatic Table of Contents in Dev.to Articles</a>
-                <div>If you&#39;re an avid reader on Dev.to, you might have come across articles that feature a table of...</div>
-                <div><i>20/09/2023</i></div>
-            </td>
-        </tr>
 </table>
 
 <div align="right">
 
-*Updated at: 2023-10-05T06:28:40Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
+*Updated at: 2023-10-05T12:44:39Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
 
 </div>
 
