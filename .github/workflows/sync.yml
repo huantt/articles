@@ -41,6 +41,7 @@ jobs:
           --destination="hashnode.dev"
       - name: Commit
         run: |
+          git rebase main
           if git diff --exit-code; then
             echo "No changes to commit."
             exit 0

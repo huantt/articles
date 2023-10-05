@@ -25,6 +25,7 @@ jobs:
           article-listing update-articles --username=jacktt --template-file='templates/README.md.tpl' --out-file='README.md' --limit=5
       - name: Commit
         run: |
+          git rebase main
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add .
