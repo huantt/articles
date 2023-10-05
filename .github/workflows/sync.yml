@@ -46,7 +46,7 @@ jobs:
           git config user.email github-actions@github.com
           git add .
           
-          if git diff --exit-code; then
+          if git diff --cached --exit-code; then
             echo "No changes to commit."
             exit 0
           else
