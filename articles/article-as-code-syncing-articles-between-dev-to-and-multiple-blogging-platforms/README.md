@@ -71,17 +71,18 @@ jobs:
           --destination="hashnode.dev"
       - name: Commit
         run: |
-          if git diff --exit-code; then
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add .
+          
+          if git diff --cached --exit-code; then
             echo "No changes to commit."
             exit 0
           else
-            git config user.name github-actions
-            git config user.email github-actions@github.com
-            git add .
             git commit -m "update"
+            git rebase main
             git push origin main
           fi
-
 ```
 This GitHub Action will run every 6 hours or whenever you push a new commit to the main branch. Here's what it does:
 
