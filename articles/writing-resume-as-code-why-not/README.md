@@ -1,5 +1,7 @@
 
-[![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/651rr9y3cosa5asg96nv.png)](https://huantt.github.io/)
+![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/iv6l4t1rwkupbu0ubgap.png)
+
+
 ## Why I Developed Resume as Code
 
 I've explored various CV builder platforms over the years.
