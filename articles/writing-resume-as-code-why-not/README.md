@@ -11,7 +11,7 @@ These problems inspired me to create the `"Resume as Code"` tool. I envisioned a
 
 ## The main features
 
-### 1/ Powered by Markdown Format
+#### 1/ Powered by Markdown Format
 
 Markdown is a simple and widely-used formatting language, making it easy for users to create and edit their resumes. Whether you're a beginner or a seasoned coder, Markdown is a user-friendly choice.
 
