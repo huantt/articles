@@ -33,4 +33,4 @@ After writed and saved Resume, you can export to not only PDF but also JSON or Y
 I understand the importance of privacy and data ownership. Unlike other online platforms, `"Resume as Code"` stores all your data locally, ensuring that your sensitive personal and professional information remains in your control.
 
 ### Let’s try it out
-https://resume-as-code.vercel.app/
+https://topcv.vercel.app/
