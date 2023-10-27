@@ -11,8 +11,20 @@ I have created a GitHub action in the `.github/workflows` directory that runs ev
 <table>
         <tr>
             <td width="300px">
+                <a href="https://dev.to/jacktt/multiple-git-configs-profiles-on-one-computer-2ik">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1646687/thumbnail?t=2023-10-27%2001%3a23%3a16.475872207%20%2b0000%20UTC%20m%3d%2b0.237650517" alt="thumbnail">
+                </a>
+            </td>
+            <td>
+                <a href="https://dev.to/jacktt/multiple-git-configs-profiles-on-one-computer-2ik">Multiple git configs (profiles) on one computer</a>
+                <div>How to let git know which profile should be used in specific folders?   Imagine that you’re...</div>
+                <div><i>26/10/2023</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px">
                 <a href="https://dev.to/jacktt/explaining-ab-testing-algorithm-50mf">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1645679/thumbnail?t=2023-10-26%2018%3a26%3a57.385388953%20%2b0000%20UTC%20m%3d%2b0.086562817" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1645679/thumbnail?t=2023-10-27%2001%3a23%3a16.475872207%20%2b0000%20UTC%20m%3d%2b0.237650517" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -24,7 +36,7 @@ I have created a GitHub action in the `.github/workflows` directory that runs ev
         <tr>
             <td width="300px">
                 <a href="https://dev.to/jacktt/understanding-the-weighted-random-algorithm-581p">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1644268/thumbnail?t=2023-10-26%2018%3a26%3a57.385388953%20%2b0000%20UTC%20m%3d%2b0.086562817" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1644268/thumbnail?t=2023-10-27%2001%3a23%3a16.475872207%20%2b0000%20UTC%20m%3d%2b0.237650517" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -36,7 +48,7 @@ I have created a GitHub action in the `.github/workflows` directory that runs ev
         <tr>
             <td width="300px">
                 <a href="https://dev.to/jacktt/migrate-redis-to-aws-elasticache-8bl">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1639841/thumbnail?t=2023-10-26%2018%3a26%3a57.385388953%20%2b0000%20UTC%20m%3d%2b0.086562817" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1639841/thumbnail?t=2023-10-27%2001%3a23%3a16.475872207%20%2b0000%20UTC%20m%3d%2b0.237650517" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -48,7 +60,7 @@ I have created a GitHub action in the `.github/workflows` directory that runs ev
         <tr>
             <td width="300px">
                 <a href="https://dev.to/jacktt/writing-resume-as-code-why-not-iab">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1632508/thumbnail?t=2023-10-26%2018%3a26%3a57.385388953%20%2b0000%20UTC%20m%3d%2b0.086562817" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1632508/thumbnail?t=2023-10-27%2001%3a23%3a16.475872207%20%2b0000%20UTC%20m%3d%2b0.237650517" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -57,23 +69,11 @@ I have created a GitHub action in the `.github/workflows` directory that runs ev
                 <div><i>12/10/2023</i></div>
             </td>
         </tr>
-        <tr>
-            <td width="300px">
-                <a href="https://dev.to/jacktt/showing-more-article-info-on-dailydev-277g">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1624491/thumbnail?t=2023-10-26%2018%3a26%3a57.385388953%20%2b0000%20UTC%20m%3d%2b0.086562817" alt="thumbnail">
-                </a>
-            </td>
-            <td>
-                <a href="https://dev.to/jacktt/showing-more-article-info-on-dailydev-277g">Showing more Article info on Daily.dev</a>
-                <div>Daily.dev is a very good extension that helps us aggregate news from several sources.  When...</div>
-                <div><i>05/10/2023</i></div>
-            </td>
-        </tr>
 </table>
 
 <div align="right">
 
-*Updated at: 2023-10-26T18:26:57Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
+*Updated at: 2023-10-27T01:23:16Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
 
 </div>
 
