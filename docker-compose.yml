@@ -10,18 +10,18 @@ services:
       - --username="$DEVTO_USERNAME"
       - --article-folder=/app/articles
 
-  sync-to-hashnode:
-    image: huanttok/article-as-code:latest
-    volumes:
-      - ./articles:/app/articles
-    command:
-      - sync
-      - --username="$HASHNODE_USERNAME"
-      - --destination=hashnode.dev
-      - --auth-token="$HASHNODE_AUTH_CODE"
-      - --article-folder=/app/articles
-    depends_on:
-      - collect
+#  sync-to-hashnode:
+#    image: huanttok/article-as-code:latest
+#    volumes:
+#      - ./articles:/app/articles
+#    command:
+#      - sync
+#      - --username="$HASHNODE_USERNAME"
+#      - --destination=hashnode.dev
+#      - --auth-token="$HASHNODE_AUTH_CODE"
+#      - --article-folder=/app/articles
+#    depends_on:
+#      - collect
 
   sync-to-devto:
     image: huanttok/article-as-code:latest
