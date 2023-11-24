@@ -33,13 +33,7 @@ jobs:
           --auth-token=${{ secrets.DEVTO_TOKEN }} \
           --article-folder=articles \
           --destination="dev.to"
-      - name: Sync to hashnode.dev
-        run: |
-          article-as-code sync \
-          --username=${{ secrets.HASHNODE_USERNAME }} \
-          --auth-token=${{ secrets.HASHNODE_TOKEN }} \
-          --article-folder=articles \
-          --destination="hashnode.dev"
+
       - name: Commit
         run: |
           git config user.name github-actions
