@@ -34,3 +34,9 @@ I understand the importance of privacy and data ownership. Unlike other online p
 
 ### Let’s try it out
 https://topcv.vercel.app/
+
+### Opensource
+
+I've just published the source code here: 
+
+https://github.com/huantt/resume-as-code
