@@ -11,8 +11,32 @@ I have created a GitHub action in the `.github/workflows` directory that runs ev
 <table>
         <tr>
             <td width="300px">
+                <a href="https://dev.to/jacktt/solidity-concepts-1p85">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1844657/thumbnail?t=2024-05-08%2012%3a43%3a56.405898537%20%2b0000%20UTC%20m%3d%2b0.054370977" alt="thumbnail">
+                </a>
+            </td>
+            <td>
+                <a href="https://dev.to/jacktt/solidity-concepts-1p85">Solidity concepts</a>
+                <div>Concept / Keyword Description     Visibility Specifies the accessibility of functions and state...</div>
+                <div><i>07/05/2024</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px">
+                <a href="https://dev.to/jacktt/optimistic-lock-pessimistic-lock-4h36">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1846147/thumbnail?t=2024-05-08%2012%3a43%3a56.405898537%20%2b0000%20UTC%20m%3d%2b0.054370977" alt="thumbnail">
+                </a>
+            </td>
+            <td>
+                <a href="https://dev.to/jacktt/optimistic-lock-pessimistic-lock-4h36">Optimistic lock &amp; Pessimistic lock</a>
+                <div>Pessimistic lock    Lock READ UPDATE Unlock   Example:    START TRANSACTION;  -- Select the...</div>
+                <div><i>08/05/2024</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px">
                 <a href="https://dev.to/jacktt/kafka-dump-backup-restore-stream-40ai">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1740436/thumbnail?t=2024-05-08%2006%3a25%3a50.992586897%20%2b0000%20UTC%20m%3d%2b0.057983480" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1740436/thumbnail?t=2024-05-08%2012%3a43%3a56.405898537%20%2b0000%20UTC%20m%3d%2b0.054370977" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -24,7 +48,7 @@ I have created a GitHub action in the `.github/workflows` directory that runs ev
         <tr>
             <td width="300px">
                 <a href="https://dev.to/jacktt/kafka-dump-backup-restore-stream-22hf">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1740117/thumbnail?t=2024-05-08%2006%3a25%3a50.992586897%20%2b0000%20UTC%20m%3d%2b0.057983480" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1740117/thumbnail?t=2024-05-08%2012%3a43%3a56.405898537%20%2b0000%20UTC%20m%3d%2b0.054370977" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -36,7 +60,7 @@ I have created a GitHub action in the `.github/workflows` directory that runs ev
         <tr>
             <td width="300px">
                 <a href="https://dev.to/jacktt/saa-aws-storage-types-1noo">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1739612/thumbnail?t=2024-05-08%2006%3a25%3a50.992586897%20%2b0000%20UTC%20m%3d%2b0.057983480" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1739612/thumbnail?t=2024-05-08%2012%3a43%3a56.405898537%20%2b0000%20UTC%20m%3d%2b0.054370977" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -45,35 +69,11 @@ I have created a GitHub action in the `.github/workflows` directory that runs ev
                 <div><i>24/01/2024</i></div>
             </td>
         </tr>
-        <tr>
-            <td width="300px">
-                <a href="https://dev.to/jacktt/kubernetes-scheduler-129i">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1715409/thumbnail?t=2024-05-08%2006%3a25%3a50.992586897%20%2b0000%20UTC%20m%3d%2b0.057983480" alt="thumbnail">
-                </a>
-            </td>
-            <td>
-                <a href="https://dev.to/jacktt/kubernetes-scheduler-129i">Kubernetes Scheduler</a>
-                <div>I. Concepts            Node labels   When create a node, we can mark some labels for it. On...</div>
-                <div><i>03/01/2024</i></div>
-            </td>
-        </tr>
-        <tr>
-            <td width="300px">
-                <a href="https://dev.to/jacktt/multiple-git-configs-profiles-on-one-computer-2ik">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1646687/thumbnail?t=2024-05-08%2006%3a25%3a50.992586897%20%2b0000%20UTC%20m%3d%2b0.057983480" alt="thumbnail">
-                </a>
-            </td>
-            <td>
-                <a href="https://dev.to/jacktt/multiple-git-configs-profiles-on-one-computer-2ik">Multiple git configs (profiles) on one computer</a>
-                <div>How to let git know which profile should be used in specific folders?   Imagine that you’re...</div>
-                <div><i>26/10/2023</i></div>
-            </td>
-        </tr>
 </table>
 
 <div align="right">
 
-*Updated at: 2024-05-08T06:25:50Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
+*Updated at: 2024-05-08T12:43:56Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
 
 </div>
 
