@@ -22,17 +22,17 @@ WHERE product_id = 1;
 COMMIT;
 ```
 
-**PROs:**
+#### PROs:
 - Prevents conflicts.
 - Ensures data integrity.
 - Suitable for high contention.
 
-**CONs:**
+#### CONs:
 - Decreased throughput.
 - Increased deadlock risk.
 - Reduced responsiveness.
 
-**Use Case:**
+#### Use Case:
 Pessimistic locking is often employed in scenarios where conflicts are likely or must be avoided, such as:
 - Banking systems where transactions involving account balances must be processed serially.
 - Reservation systems where concurrent bookings for the same resource must be prevented.
@@ -58,12 +58,12 @@ WHERE product_id = 1 AND version = 1;
 -- Retry if update count is zero
 ```
 
-**PROs:**
+#### PROs:
 - Minimal performance impact.
 - Allows concurrent access.
 - Suitable for infrequent conflicts.
 
-**CONs:**
+#### CONs:
 - Risk of conflicts.
 - Requires conflict resolution. (retry)
 - Not ideal for high contention.
