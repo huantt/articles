@@ -11,8 +11,32 @@ I have created a GitHub action in the `.github/workflows` directory that runs ev
 <table>
         <tr>
             <td width="300px">
+                <a href="https://dev.to/jacktt/understanding-the-select-for-update-sql-statement-900">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1878713/thumbnail?t=2024-06-06%2012%3a44%3a05.485185913%20%2b0000%20UTC%20m%3d%2b0.569510148" alt="thumbnail">
+                </a>
+            </td>
+            <td>
+                <a href="https://dev.to/jacktt/understanding-the-select-for-update-sql-statement-900">Understanding the &#34;SELECT FOR UPDATE&#34; SQL Statement</a>
+                <div>What is &#34;SELECT FOR UPDATE&#34;?   SELECT FOR UPDATE is a clause in SQL that is appended to a...</div>
+                <div><i>06/06/2024</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px">
+                <a href="https://dev.to/jacktt/managing-concurrent-purchases-of-limited-items-in-a-database-2gm0">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1878703/thumbnail?t=2024-06-06%2012%3a44%3a05.485185913%20%2b0000%20UTC%20m%3d%2b0.569510148" alt="thumbnail">
+                </a>
+            </td>
+            <td>
+                <a href="https://dev.to/jacktt/managing-concurrent-purchases-of-limited-items-in-a-database-2gm0">Managing Concurrent Purchases of Limited Items in a Database</a>
+                <div>Imagine that we&#39;re developing an e-commerce website. In this case, we have a limited number of items...</div>
+                <div><i>06/06/2024</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px">
                 <a href="https://dev.to/jacktt/why-does-not-postgres-use-my-index-5apf">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1877490/thumbnail?t=2024-06-06%2006%3a31%3a14.07953743%20%2b0000%20UTC%20m%3d%2b0.030953241" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1877490/thumbnail?t=2024-06-06%2012%3a44%3a05.485185913%20%2b0000%20UTC%20m%3d%2b0.569510148" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -24,7 +48,7 @@ I have created a GitHub action in the `.github/workflows` directory that runs ev
         <tr>
             <td width="300px">
                 <a href="https://dev.to/jacktt/advanced-go-build-techniques-4fk1">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1846653/thumbnail?t=2024-06-06%2006%3a31%3a14.07953743%20%2b0000%20UTC%20m%3d%2b0.030953241" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1846653/thumbnail?t=2024-06-06%2012%3a44%3a05.485185913%20%2b0000%20UTC%20m%3d%2b0.569510148" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -36,7 +60,7 @@ I have created a GitHub action in the `.github/workflows` directory that runs ev
         <tr>
             <td width="300px">
                 <a href="https://dev.to/jacktt/solidity-concepts-1p85">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1844657/thumbnail?t=2024-06-06%2006%3a31%3a14.07953743%20%2b0000%20UTC%20m%3d%2b0.030953241" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1844657/thumbnail?t=2024-06-06%2012%3a44%3a05.485185913%20%2b0000%20UTC%20m%3d%2b0.569510148" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -45,35 +69,11 @@ I have created a GitHub action in the `.github/workflows` directory that runs ev
                 <div><i>07/05/2024</i></div>
             </td>
         </tr>
-        <tr>
-            <td width="300px">
-                <a href="https://dev.to/jacktt/optimistic-lock-pessimistic-lock-4h36">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1846147/thumbnail?t=2024-06-06%2006%3a31%3a14.07953743%20%2b0000%20UTC%20m%3d%2b0.030953241" alt="thumbnail">
-                </a>
-            </td>
-            <td>
-                <a href="https://dev.to/jacktt/optimistic-lock-pessimistic-lock-4h36">Optimistic lock &amp; Pessimistic lock</a>
-                <div>Pessimistic lock    Lock READ UPDATE Unlock   Example:    START TRANSACTION;  -- Select the...</div>
-                <div><i>08/05/2024</i></div>
-            </td>
-        </tr>
-        <tr>
-            <td width="300px">
-                <a href="https://dev.to/jacktt/kafka-dump-backup-restore-stream-40ai">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1740436/thumbnail?t=2024-06-06%2006%3a31%3a14.07953743%20%2b0000%20UTC%20m%3d%2b0.030953241" alt="thumbnail">
-                </a>
-            </td>
-            <td>
-                <a href="https://dev.to/jacktt/kafka-dump-backup-restore-stream-40ai">Kafka dump: backup, restore, stream,...</a>
-                <div>Source code   Kafka dump           Kafka data backup   Kafka dump is a tool to back up and...</div>
-                <div><i>24/01/2024</i></div>
-            </td>
-        </tr>
 </table>
 
 <div align="right">
 
-*Updated at: 2024-06-06T06:31:14Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
+*Updated at: 2024-06-06T12:44:05Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
 
 </div>
 
