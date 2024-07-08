@@ -28,7 +28,16 @@ Here, the `FOR UPDATE` clause at the end indicates that the selected rows should
 When a transaction issues a "SELECT FOR UPDATE" statement, the following steps occur:
 
 1. **Row Selection:** The database engine identifies the rows that match the specified condition.
-2. **Row Locking:** The selected rows are locked, preventing other transactions from acquiring locks that would conflict with the current transaction. This typically means other transactions cannot update or delete these rows until the lock is released.
+2. **Row Locking:** The selected rows are locked, preventing other transactions from acquiring locks that would conflict with the current transaction. This typically means other transactions cannot update or delete these rows until the lock is released. The affected transactions include: 
+ - UPDATE
+ - DELETE
+ - SELECT FOR UPDATE
+ - SELECT FOR NO KEY UPDATE
+ - SELECT FOR SHARE
+ - SELECT FOR KEY SHARE
+
+That means the read only queries (SELECT) are not locked.
+
 3. **Data Access:** The transaction can read and potentially update the locked rows.
 4. **Transaction Completion:** Once the transaction is committed or rolled back, the locks are released, making the rows available for other transactions.
 
@@ -49,3 +58,6 @@ Postgres: Row-level locks do not affect data querying; they block only writers a
 ### Conclusion
 
 "SELECT FOR UPDATE" is a vital tool for managing data integrity and consistency in relational databases. By understanding its functionality and applying it thoughtfully, developers can handle concurrent transactions effectively, ensuring reliable and accurate data manipulation. However, it is equally important to be aware of its implications on performance and system architecture to make the best use of this feature.
+
+## References
+- https://www.postgresql.org/docs/current/explicit-locking.html
