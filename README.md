@@ -11,8 +11,20 @@ I have created a GitHub action in the `.github/workflows` directory that runs ev
 <table>
         <tr>
             <td width="300px">
+                <a href="https://dev.to/jacktt/comparing-limit-offset-and-cursor-pagination-1n81">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1917961/thumbnail?t=2024-07-10%2018%3a33%3a08.732644919%20%2b0000%20UTC%20m%3d%2b0.049861513" alt="thumbnail">
+                </a>
+            </td>
+            <td>
+                <a href="https://dev.to/jacktt/comparing-limit-offset-and-cursor-pagination-1n81">Comparing Limit-Offset and Cursor Pagination</a>
+                <div>Comparing Limit-Offset and Cursor Pagination   There are two popular methods for pagination...</div>
+                <div><i>10/07/2024</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px">
                 <a href="https://dev.to/jacktt/showing-more-article-info-on-dailydev-239b">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1916637/thumbnail?t=2024-07-10%2012%3a45%3a34.343057805%20%2b0000%20UTC%20m%3d%2b0.055922418" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1916637/thumbnail?t=2024-07-10%2018%3a33%3a08.732644919%20%2b0000%20UTC%20m%3d%2b0.049861513" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -24,7 +36,7 @@ I have created a GitHub action in the `.github/workflows` directory that runs ev
         <tr>
             <td width="300px">
                 <a href="https://dev.to/jacktt/showing-more-article-info-on-dailydev-5351">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1916216/thumbnail?t=2024-07-10%2012%3a45%3a34.343057805%20%2b0000%20UTC%20m%3d%2b0.055922418" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1916216/thumbnail?t=2024-07-10%2018%3a33%3a08.732644919%20%2b0000%20UTC%20m%3d%2b0.049861513" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -36,7 +48,7 @@ I have created a GitHub action in the `.github/workflows` directory that runs ev
         <tr>
             <td width="300px">
                 <a href="https://dev.to/jacktt/article-as-code-syncing-articles-between-devto-and-multiple-blogging-platforms-4a7c">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1915755/thumbnail?t=2024-07-10%2012%3a45%3a34.343057805%20%2b0000%20UTC%20m%3d%2b0.055922418" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1915755/thumbnail?t=2024-07-10%2018%3a33%3a08.732644919%20%2b0000%20UTC%20m%3d%2b0.049861513" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -48,7 +60,7 @@ I have created a GitHub action in the `.github/workflows` directory that runs ev
         <tr>
             <td width="300px">
                 <a href="https://dev.to/jacktt/why-are-nosql-databases-beeter-at-horizontal-scaling-compared-to-sql-databases-1hk2">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1907261/thumbnail?t=2024-07-10%2012%3a45%3a34.343057805%20%2b0000%20UTC%20m%3d%2b0.055922418" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1907261/thumbnail?t=2024-07-10%2018%3a33%3a08.732644919%20%2b0000%20UTC%20m%3d%2b0.049861513" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -57,23 +69,11 @@ I have created a GitHub action in the `.github/workflows` directory that runs ev
                 <div><i>01/07/2024</i></div>
             </td>
         </tr>
-        <tr>
-            <td width="300px">
-                <a href="https://dev.to/jacktt/graphql-types-26og">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1909543/thumbnail?t=2024-07-10%2012%3a45%3a34.343057805%20%2b0000%20UTC%20m%3d%2b0.055922418" alt="thumbnail">
-                </a>
-            </td>
-            <td>
-                <a href="https://dev.to/jacktt/graphql-types-26og">GraphQL Types</a>
-                <div>Field declaration   By default, it&#39;s valid for any field in your schema to return null...</div>
-                <div><i>03/07/2024</i></div>
-            </td>
-        </tr>
 </table>
 
 <div align="right">
 
-*Updated at: 2024-07-10T12:45:34Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
+*Updated at: 2024-07-10T18:33:08Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
 
 </div>
 
