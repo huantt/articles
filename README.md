@@ -11,8 +11,20 @@ I have created a GitHub action in the `.github/workflows` directory that runs ev
 <table>
         <tr>
             <td width="300px">
+                <a href="https://dev.to/jacktt/go-mock-30a4">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1941444/thumbnail?t=2024-07-30%2018%3a31%3a50.607375746%20%2b0000%20UTC%20m%3d%2b0.029228458" alt="thumbnail">
+                </a>
+            </td>
+            <td>
+                <a href="https://dev.to/jacktt/go-mock-30a4">Go mock</a>
+                <div>What is Go mock   Go mock is a mocking framework that allows developers to create mock...</div>
+                <div><i>30/07/2024</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px">
                 <a href="https://dev.to/jacktt/comparing-limit-offset-and-cursor-pagination-1n81">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1917961/thumbnail?t=2024-07-30%2012%3a46%3a04.063169489%20%2b0000%20UTC%20m%3d%2b0.122527998" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1917961/thumbnail?t=2024-07-30%2018%3a31%3a50.607375746%20%2b0000%20UTC%20m%3d%2b0.029228458" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -24,7 +36,7 @@ I have created a GitHub action in the `.github/workflows` directory that runs ev
         <tr>
             <td width="300px">
                 <a href="https://dev.to/jacktt/showing-more-article-info-on-dailydev-239b">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1916637/thumbnail?t=2024-07-30%2012%3a46%3a04.063169489%20%2b0000%20UTC%20m%3d%2b0.122527998" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1916637/thumbnail?t=2024-07-30%2018%3a31%3a50.607375746%20%2b0000%20UTC%20m%3d%2b0.029228458" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -36,7 +48,7 @@ I have created a GitHub action in the `.github/workflows` directory that runs ev
         <tr>
             <td width="300px">
                 <a href="https://dev.to/jacktt/showing-more-article-info-on-dailydev-5351">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1916216/thumbnail?t=2024-07-30%2012%3a46%3a04.063169489%20%2b0000%20UTC%20m%3d%2b0.122527998" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1916216/thumbnail?t=2024-07-30%2018%3a31%3a50.607375746%20%2b0000%20UTC%20m%3d%2b0.029228458" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -48,7 +60,7 @@ I have created a GitHub action in the `.github/workflows` directory that runs ev
         <tr>
             <td width="300px">
                 <a href="https://dev.to/jacktt/article-as-code-syncing-articles-between-devto-and-multiple-blogging-platforms-4a7c">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1915755/thumbnail?t=2024-07-30%2012%3a46%3a04.063169489%20%2b0000%20UTC%20m%3d%2b0.122527998" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1915755/thumbnail?t=2024-07-30%2018%3a31%3a50.607375746%20%2b0000%20UTC%20m%3d%2b0.029228458" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -57,23 +69,11 @@ I have created a GitHub action in the `.github/workflows` directory that runs ev
                 <div><i>08/07/2024</i></div>
             </td>
         </tr>
-        <tr>
-            <td width="300px">
-                <a href="https://dev.to/jacktt/why-are-nosql-databases-beeter-at-horizontal-scaling-compared-to-sql-databases-1hk2">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1907261/thumbnail?t=2024-07-30%2012%3a46%3a04.063169489%20%2b0000%20UTC%20m%3d%2b0.122527998" alt="thumbnail">
-                </a>
-            </td>
-            <td>
-                <a href="https://dev.to/jacktt/why-are-nosql-databases-beeter-at-horizontal-scaling-compared-to-sql-databases-1hk2">Why are NoSQL Databases beeter at Horizontal Scaling Compared to...</a>
-                <div>The ability of NoSQL databases to horizontally scale more effectively than SQL databases is rooted in...</div>
-                <div><i>01/07/2024</i></div>
-            </td>
-        </tr>
 </table>
 
 <div align="right">
 
-*Updated at: 2024-07-30T12:46:04Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
+*Updated at: 2024-07-30T18:31:50Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
 
 </div>
 
