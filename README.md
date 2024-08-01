@@ -11,8 +11,44 @@ I have created a GitHub action in the `.github/workflows` directory that runs ev
 <table>
         <tr>
             <td width="300px">
+                <a href="https://dev.to/jacktt/kubernetes-scheduler-3b68">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1942835/thumbnail?t=2024-08-01%2006%3a33%3a23.481544417%20%2b0000%20UTC%20m%3d%2b0.094044105" alt="thumbnail">
+                </a>
+            </td>
+            <td>
+                <a href="https://dev.to/jacktt/kubernetes-scheduler-3b68">Kubernetes Scheduler</a>
+                <div>I. Concepts            Node labels   When create a node, we can mark some labels for it. On...</div>
+                <div><i>31/07/2024</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px">
+                <a href="https://dev.to/jacktt/kubernetes-scheduler-1173">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1942455/thumbnail?t=2024-08-01%2006%3a33%3a23.481544417%20%2b0000%20UTC%20m%3d%2b0.094044105" alt="thumbnail">
+                </a>
+            </td>
+            <td>
+                <a href="https://dev.to/jacktt/kubernetes-scheduler-1173">Kubernetes Scheduler</a>
+                <div>I. Concepts            Node labels   When create a node, we can mark some labels for it. On...</div>
+                <div><i>31/07/2024</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px">
+                <a href="https://dev.to/jacktt/kubernetes-scheduler-3opf">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1942053/thumbnail?t=2024-08-01%2006%3a33%3a23.481544417%20%2b0000%20UTC%20m%3d%2b0.094044105" alt="thumbnail">
+                </a>
+            </td>
+            <td>
+                <a href="https://dev.to/jacktt/kubernetes-scheduler-3opf">Kubernetes Scheduler</a>
+                <div>I. Concepts            Node labels   When create a node, we can mark some labels for it. On...</div>
+                <div><i>31/07/2024</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px">
                 <a href="https://dev.to/jacktt/exploring-some-powerful-features-of-golang-36h0">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1941828/thumbnail?t=2024-08-01%2001%3a48%3a48.902178203%20%2b0000%20UTC%20m%3d%2b0.053455901" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1941828/thumbnail?t=2024-08-01%2006%3a33%3a23.481544417%20%2b0000%20UTC%20m%3d%2b0.094044105" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -24,7 +60,7 @@ I have created a GitHub action in the `.github/workflows` directory that runs ev
         <tr>
             <td width="300px">
                 <a href="https://dev.to/jacktt/explaining-ab-testing-algorithm-3k6b">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1941636/thumbnail?t=2024-08-01%2001%3a48%3a48.902178203%20%2b0000%20UTC%20m%3d%2b0.053455901" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1941636/thumbnail?t=2024-08-01%2006%3a33%3a23.481544417%20%2b0000%20UTC%20m%3d%2b0.094044105" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -33,47 +69,11 @@ I have created a GitHub action in the `.github/workflows` directory that runs ev
                 <div><i>30/07/2024</i></div>
             </td>
         </tr>
-        <tr>
-            <td width="300px">
-                <a href="https://dev.to/jacktt/go-mock-30a4">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1941444/thumbnail?t=2024-08-01%2001%3a48%3a48.902178203%20%2b0000%20UTC%20m%3d%2b0.053455901" alt="thumbnail">
-                </a>
-            </td>
-            <td>
-                <a href="https://dev.to/jacktt/go-mock-30a4">Go mock</a>
-                <div>What is Go mock   Go mock is a mocking framework that allows developers to create mock...</div>
-                <div><i>30/07/2024</i></div>
-            </td>
-        </tr>
-        <tr>
-            <td width="300px">
-                <a href="https://dev.to/jacktt/comparing-limit-offset-and-cursor-pagination-1n81">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1917961/thumbnail?t=2024-08-01%2001%3a48%3a48.902178203%20%2b0000%20UTC%20m%3d%2b0.053455901" alt="thumbnail">
-                </a>
-            </td>
-            <td>
-                <a href="https://dev.to/jacktt/comparing-limit-offset-and-cursor-pagination-1n81">Comparing Limit-Offset and Cursor Pagination</a>
-                <div>Comparing Limit-Offset and Cursor Pagination   There are two popular methods for pagination...</div>
-                <div><i>10/07/2024</i></div>
-            </td>
-        </tr>
-        <tr>
-            <td width="300px">
-                <a href="https://dev.to/jacktt/showing-more-article-info-on-dailydev-239b">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1916637/thumbnail?t=2024-08-01%2001%3a48%3a48.902178203%20%2b0000%20UTC%20m%3d%2b0.053455901" alt="thumbnail">
-                </a>
-            </td>
-            <td>
-                <a href="https://dev.to/jacktt/showing-more-article-info-on-dailydev-239b">Showing more Article info on Daily.dev</a>
-                <div>Daily.dev is a very good extension that helps us aggregate news from several sources.  When...</div>
-                <div><i>09/07/2024</i></div>
-            </td>
-        </tr>
 </table>
 
 <div align="right">
 
-*Updated at: 2024-08-01T01:48:48Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
+*Updated at: 2024-08-01T06:33:23Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
 
 </div>
 
