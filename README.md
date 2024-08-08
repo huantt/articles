@@ -11,8 +11,20 @@ I have created a GitHub action in the `.github/workflows` directory that runs ev
 <table>
         <tr>
             <td width="300px">
+                <a href="https://dev.to/jacktt/kubernetes-probes-livenssprobe-readinessprobe-and-startupprobe-3j37">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1950483/thumbnail?t=2024-08-08%2001%3a42%3a39.919183909%20%2b0000%20UTC%20m%3d%2b0.102672553" alt="thumbnail">
+                </a>
+            </td>
+            <td>
+                <a href="https://dev.to/jacktt/kubernetes-probes-livenssprobe-readinessprobe-and-startupprobe-3j37">Kubernetes probes: startupProbe, livenssProbe, and readinessProbe</a>
+                <div>Liveness   Liveness probes determine when to restart a container.   If the liveness probe...</div>
+                <div><i>07/08/2024</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px">
                 <a href="https://dev.to/jacktt/kubernetes-scheduler-3b68">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1942835/thumbnail?t=2024-08-07%2018%3a32%3a22.407141702%20%2b0000%20UTC%20m%3d%2b0.033868368" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1942835/thumbnail?t=2024-08-08%2001%3a42%3a39.919183909%20%2b0000%20UTC%20m%3d%2b0.102672553" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -24,7 +36,7 @@ I have created a GitHub action in the `.github/workflows` directory that runs ev
         <tr>
             <td width="300px">
                 <a href="https://dev.to/jacktt/kubernetes-scheduler-1173">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1942455/thumbnail?t=2024-08-07%2018%3a32%3a22.407141702%20%2b0000%20UTC%20m%3d%2b0.033868368" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1942455/thumbnail?t=2024-08-08%2001%3a42%3a39.919183909%20%2b0000%20UTC%20m%3d%2b0.102672553" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -36,7 +48,7 @@ I have created a GitHub action in the `.github/workflows` directory that runs ev
         <tr>
             <td width="300px">
                 <a href="https://dev.to/jacktt/kubernetes-scheduler-3opf">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1942053/thumbnail?t=2024-08-07%2018%3a32%3a22.407141702%20%2b0000%20UTC%20m%3d%2b0.033868368" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1942053/thumbnail?t=2024-08-08%2001%3a42%3a39.919183909%20%2b0000%20UTC%20m%3d%2b0.102672553" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -48,7 +60,7 @@ I have created a GitHub action in the `.github/workflows` directory that runs ev
         <tr>
             <td width="300px">
                 <a href="https://dev.to/jacktt/exploring-some-powerful-features-of-golang-36h0">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1941828/thumbnail?t=2024-08-07%2018%3a32%3a22.407141702%20%2b0000%20UTC%20m%3d%2b0.033868368" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1941828/thumbnail?t=2024-08-08%2001%3a42%3a39.919183909%20%2b0000%20UTC%20m%3d%2b0.102672553" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -57,23 +69,11 @@ I have created a GitHub action in the `.github/workflows` directory that runs ev
                 <div><i>31/07/2024</i></div>
             </td>
         </tr>
-        <tr>
-            <td width="300px">
-                <a href="https://dev.to/jacktt/explaining-ab-testing-algorithm-3k6b">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1941636/thumbnail?t=2024-08-07%2018%3a32%3a22.407141702%20%2b0000%20UTC%20m%3d%2b0.033868368" alt="thumbnail">
-                </a>
-            </td>
-            <td>
-                <a href="https://dev.to/jacktt/explaining-ab-testing-algorithm-3k6b">Explaining A/B testing algorithm</a>
-                <div>We are developing a crypto news aggregator Bitesapp.co. A few days ago, we implemented A/B testing...</div>
-                <div><i>30/07/2024</i></div>
-            </td>
-        </tr>
 </table>
 
 <div align="right">
 
-*Updated at: 2024-08-07T18:32:22Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
+*Updated at: 2024-08-08T01:42:39Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
 
 </div>
 
