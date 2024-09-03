@@ -8,6 +8,7 @@
 - [Use Materialized view](#use-materialized-view)
 - [Use Appropriate Data Types](#use-appropriate-data-types)
 - [Limit the Amount of Data Retrieved](#limit-the-amount-of-data-retrieved)
+- [Only select the necessary fields](#only-select-the-necessary-fields)
 
 ## Indexing
 
@@ -76,3 +77,8 @@ Using the appropriate data types for your columns can also improve query perform
 ## Limit the Amount of Data Retrieved
 
 If you don't need to retrieve all the data from a table, don't. Use the `LIMIT` clause to restrict the number of rows returned by your query. This can significantly reduce the amount of data that PostgreSQL needs to process, resulting in faster queries.
+
+## Only select the necessary fields
+In general, selecting as few fields as possible helps reduce the bandwidth of data transfer. 
+
+If the selected fields are indexed, the query will be much faster than if other fields are selected. This is because, in this case, the database doesn't have to scan the table again but instead return the values directly from the index.
