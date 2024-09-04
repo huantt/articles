@@ -45,3 +45,12 @@ At the same time, we have 2 concurrent transactions:
   + The related sales rows include only Row A, Row B, and Row C. Row D is not included, even though it was inserted in the second transaction (but has not been committed).
   + The product row has a remaining quantity of 6.
 - Therefore, the result will be 3 for the count query and 7 for the remaining quantity. This is correct and consistent.
+
+
+## References
+According to this video, Postgres uses timestamp as version number for rows. 
+
+https://www.youtube.com/watch?v=ZxhBkBNxvR0&t=1107s
+
+![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2u11jk4hrxoklnx2xpu2.png)
+
