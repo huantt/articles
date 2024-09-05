@@ -12,7 +12,7 @@ I have created a GitHub action in the `.github/workflows` directory that runs ev
         <tr>
             <td width="300px">
                 <a href="https://dev.to/jacktt/acid-in-postgres-6h8">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1960352/thumbnail?t=2024-09-05%2012%3a49%3a03.227701835%20%2b0000%20UTC%20m%3d%2b0.030776812" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1960352/thumbnail?t=2024-09-05%2018%3a33%3a04.379176153%20%2b0000%20UTC%20m%3d%2b0.049208054" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -23,20 +23,8 @@ I have created a GitHub action in the `.github/workflows` directory that runs ev
         </tr>
         <tr>
             <td width="300px">
-                <a href="https://dev.to/jacktt/postgres-multi-version-concurrency-control-24nl">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1984948/thumbnail?t=2024-09-05%2012%3a49%3a03.227701835%20%2b0000%20UTC%20m%3d%2b0.030776812" alt="thumbnail">
-                </a>
-            </td>
-            <td>
-                <a href="https://dev.to/jacktt/postgres-multi-version-concurrency-control-24nl">[Database] Multi-Version Concurrency Control</a>
-                <div>What is Multi-Version Concurrency Control   Multi-Version Concurrency Control (MVCC) is a...</div>
-                <div><i>03/09/2024</i></div>
-            </td>
-        </tr>
-        <tr>
-            <td width="300px">
                 <a href="https://dev.to/jacktt/kubernetes-probes-livenssprobe-readinessprobe-and-startupprobe-3j37">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1950483/thumbnail?t=2024-09-05%2012%3a49%3a03.227701835%20%2b0000%20UTC%20m%3d%2b0.030776812" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1950483/thumbnail?t=2024-09-05%2018%3a33%3a04.379176153%20%2b0000%20UTC%20m%3d%2b0.049208054" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -48,7 +36,7 @@ I have created a GitHub action in the `.github/workflows` directory that runs ev
         <tr>
             <td width="300px">
                 <a href="https://dev.to/jacktt/kubernetes-scheduler-3b68">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1942835/thumbnail?t=2024-09-05%2012%3a49%3a03.227701835%20%2b0000%20UTC%20m%3d%2b0.030776812" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1942835/thumbnail?t=2024-09-05%2018%3a33%3a04.379176153%20%2b0000%20UTC%20m%3d%2b0.049208054" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -60,7 +48,7 @@ I have created a GitHub action in the `.github/workflows` directory that runs ev
         <tr>
             <td width="300px">
                 <a href="https://dev.to/jacktt/kubernetes-scheduler-1173">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1942455/thumbnail?t=2024-09-05%2012%3a49%3a03.227701835%20%2b0000%20UTC%20m%3d%2b0.030776812" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1942455/thumbnail?t=2024-09-05%2018%3a33%3a04.379176153%20%2b0000%20UTC%20m%3d%2b0.049208054" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -69,11 +57,23 @@ I have created a GitHub action in the `.github/workflows` directory that runs ev
                 <div><i>31/07/2024</i></div>
             </td>
         </tr>
+        <tr>
+            <td width="300px">
+                <a href="https://dev.to/jacktt/kubernetes-scheduler-3opf">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1942053/thumbnail?t=2024-09-05%2018%3a33%3a04.379176153%20%2b0000%20UTC%20m%3d%2b0.049208054" alt="thumbnail">
+                </a>
+            </td>
+            <td>
+                <a href="https://dev.to/jacktt/kubernetes-scheduler-3opf">Kubernetes Scheduler</a>
+                <div>I. Concepts            Node labels   When create a node, we can mark some labels for it. On...</div>
+                <div><i>31/07/2024</i></div>
+            </td>
+        </tr>
 </table>
 
 <div align="right">
 
-*Updated at: 2024-09-05T12:49:03Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
+*Updated at: 2024-09-05T18:33:04Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
 
 </div>
 
