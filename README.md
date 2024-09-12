@@ -11,8 +11,20 @@ I have created a GitHub action in the `.github/workflows` directory that runs ev
 <table>
         <tr>
             <td width="300px">
+                <a href="https://dev.to/jacktt/postgres-isolation-levels-72h">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1997475/thumbnail?t=2024-09-12%2001%3a48%3a32.866824564%20%2b0000%20UTC%20m%3d%2b0.442266605" alt="thumbnail">
+                </a>
+            </td>
+            <td>
+                <a href="https://dev.to/jacktt/postgres-isolation-levels-72h">[Postgres] Isolation levels</a>
+                <div>In PostgreSQL, isolation levels determine how transaction integrity is maintained when multiple...</div>
+                <div><i>12/09/2024</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px">
                 <a href="https://dev.to/jacktt/database-multi-version-concurrency-control-47hk">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1989262/thumbnail?t=2024-09-11%2018%3a33%3a44.092771224%20%2b0000%20UTC%20m%3d%2b0.102584465" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1989262/thumbnail?t=2024-09-12%2001%3a48%3a32.866824564%20%2b0000%20UTC%20m%3d%2b0.442266605" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -24,7 +36,7 @@ I have created a GitHub action in the `.github/workflows` directory that runs ev
         <tr>
             <td width="300px">
                 <a href="https://dev.to/jacktt/database-multi-version-concurrency-control-ke1">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1988900/thumbnail?t=2024-09-11%2018%3a33%3a44.092771224%20%2b0000%20UTC%20m%3d%2b0.102584465" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1988900/thumbnail?t=2024-09-12%2001%3a48%3a32.866824564%20%2b0000%20UTC%20m%3d%2b0.442266605" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -36,7 +48,7 @@ I have created a GitHub action in the `.github/workflows` directory that runs ev
         <tr>
             <td width="300px">
                 <a href="https://dev.to/jacktt/database-multi-version-concurrency-control-l9j">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1988687/thumbnail?t=2024-09-11%2018%3a33%3a44.092771224%20%2b0000%20UTC%20m%3d%2b0.102584465" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1988687/thumbnail?t=2024-09-12%2001%3a48%3a32.866824564%20%2b0000%20UTC%20m%3d%2b0.442266605" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -48,7 +60,7 @@ I have created a GitHub action in the `.github/workflows` directory that runs ev
         <tr>
             <td width="300px">
                 <a href="https://dev.to/jacktt/database-multi-version-concurrency-control-1fi8">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1988415/thumbnail?t=2024-09-11%2018%3a33%3a44.092771224%20%2b0000%20UTC%20m%3d%2b0.102584465" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1988415/thumbnail?t=2024-09-12%2001%3a48%3a32.866824564%20%2b0000%20UTC%20m%3d%2b0.442266605" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -57,23 +69,11 @@ I have created a GitHub action in the `.github/workflows` directory that runs ev
                 <div><i>05/09/2024</i></div>
             </td>
         </tr>
-        <tr>
-            <td width="300px">
-                <a href="https://dev.to/jacktt/acid-in-postgres-6h8">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1960352/thumbnail?t=2024-09-11%2018%3a33%3a44.092771224%20%2b0000%20UTC%20m%3d%2b0.102584465" alt="thumbnail">
-                </a>
-            </td>
-            <td>
-                <a href="https://dev.to/jacktt/acid-in-postgres-6h8">ACID in Postgres</a>
-                <div>ACID is a set of properties that ensure reliable transactions in a database system. It stands for...</div>
-                <div><i>15/08/2024</i></div>
-            </td>
-        </tr>
 </table>
 
 <div align="right">
 
-*Updated at: 2024-09-11T18:33:44Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
+*Updated at: 2024-09-12T01:48:32Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
 
 </div>
 
