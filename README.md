@@ -11,8 +11,20 @@ I have created a GitHub action in the `.github/workflows` directory that runs ev
 <table>
         <tr>
             <td width="300px">
+                <a href="https://dev.to/jacktt/golang-understanding-unbuffered-and-buffered-channels-35bh">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/2000292/thumbnail?t=2024-09-14%2012%3a46%3a08.500985593%20%2b0000%20UTC%20m%3d%2b0.121419655" alt="thumbnail">
+                </a>
+            </td>
+            <td>
+                <a href="https://dev.to/jacktt/golang-understanding-unbuffered-and-buffered-channels-35bh">[Golang] Understanding Unbuffered and Buffered Channels</a>
+                <div>Table of contents    Channel capacity Behavior Closed channel Receive-Only &amp;amp; Send-only...</div>
+                <div><i>14/09/2024</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px">
                 <a href="https://dev.to/jacktt/snowflake-schema-vs-star-schema-pros-cons-and-use-cases-34p9">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1997485/thumbnail?t=2024-09-14%2006%3a34%3a17.075920343%20%2b0000%20UTC%20m%3d%2b0.062735617" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1997485/thumbnail?t=2024-09-14%2012%3a46%3a08.500985593%20%2b0000%20UTC%20m%3d%2b0.121419655" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -24,7 +36,7 @@ I have created a GitHub action in the `.github/workflows` directory that runs ev
         <tr>
             <td width="300px">
                 <a href="https://dev.to/jacktt/postgres-isolation-levels-72h">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1997475/thumbnail?t=2024-09-14%2006%3a34%3a17.075920343%20%2b0000%20UTC%20m%3d%2b0.062735617" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1997475/thumbnail?t=2024-09-14%2012%3a46%3a08.500985593%20%2b0000%20UTC%20m%3d%2b0.121419655" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -35,45 +47,33 @@ I have created a GitHub action in the `.github/workflows` directory that runs ev
         </tr>
         <tr>
             <td width="300px">
-                <a href="https://dev.to/jacktt/database-multi-version-concurrency-control-47hk">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1989262/thumbnail?t=2024-09-14%2006%3a34%3a17.075920343%20%2b0000%20UTC%20m%3d%2b0.062735617" alt="thumbnail">
+                <a href="https://dev.to/jacktt/acid-in-postgres-6h8">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1960352/thumbnail?t=2024-09-14%2012%3a46%3a08.500985593%20%2b0000%20UTC%20m%3d%2b0.121419655" alt="thumbnail">
                 </a>
             </td>
             <td>
-                <a href="https://dev.to/jacktt/database-multi-version-concurrency-control-47hk">[Database] Multi-Version Concurrency Control</a>
-                <div>What is Multi-Version Concurrency Control   Multi-Version Concurrency Control (MVCC) is a...</div>
-                <div><i>06/09/2024</i></div>
+                <a href="https://dev.to/jacktt/acid-in-postgres-6h8">ACID in Postgres</a>
+                <div>ACID is a set of properties that ensure reliable transactions in a database system. It stands for...</div>
+                <div><i>15/08/2024</i></div>
             </td>
         </tr>
         <tr>
             <td width="300px">
-                <a href="https://dev.to/jacktt/database-multi-version-concurrency-control-l9j">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1988687/thumbnail?t=2024-09-14%2006%3a34%3a17.075920343%20%2b0000%20UTC%20m%3d%2b0.062735617" alt="thumbnail">
+                <a href="https://dev.to/jacktt/kubernetes-probes-livenssprobe-readinessprobe-and-startupprobe-3j37">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1950483/thumbnail?t=2024-09-14%2012%3a46%3a08.500985593%20%2b0000%20UTC%20m%3d%2b0.121419655" alt="thumbnail">
                 </a>
             </td>
             <td>
-                <a href="https://dev.to/jacktt/database-multi-version-concurrency-control-l9j">[Database] Multi-Version Concurrency Control</a>
-                <div>What is Multi-Version Concurrency Control   Multi-Version Concurrency Control (MVCC) is a...</div>
-                <div><i>06/09/2024</i></div>
-            </td>
-        </tr>
-        <tr>
-            <td width="300px">
-                <a href="https://dev.to/jacktt/database-multi-version-concurrency-control-1fi8">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1988415/thumbnail?t=2024-09-14%2006%3a34%3a17.075920343%20%2b0000%20UTC%20m%3d%2b0.062735617" alt="thumbnail">
-                </a>
-            </td>
-            <td>
-                <a href="https://dev.to/jacktt/database-multi-version-concurrency-control-1fi8">[Database] Multi-Version Concurrency Control</a>
-                <div>What is Multi-Version Concurrency Control   Multi-Version Concurrency Control (MVCC) is a...</div>
-                <div><i>05/09/2024</i></div>
+                <a href="https://dev.to/jacktt/kubernetes-probes-livenssprobe-readinessprobe-and-startupprobe-3j37">Kubernetes probes: startupProbe, livenssProbe, and readinessProbe</a>
+                <div>Liveness   Liveness probes determine when to restart a container.   If the liveness probe...</div>
+                <div><i>07/08/2024</i></div>
             </td>
         </tr>
 </table>
 
 <div align="right">
 
-*Updated at: 2024-09-14T06:34:17Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
+*Updated at: 2024-09-14T12:46:08Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
 
 </div>
 
