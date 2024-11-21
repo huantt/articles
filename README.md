@@ -12,7 +12,7 @@ I have created a GitHub action in the `.github/workflows` directory that runs ev
         <tr>
             <td width="300px">
                 <a href="https://dev.to/jacktt/avoid-misunderstanding-on-delete-no-action-gcj">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/2027227/thumbnail?t=2024-11-21%2001%3a58%3a31.120198197%20%2b0000%20UTC%20m%3d%2b0.075780366" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/2027227/thumbnail?t=2024-11-21%2006%3a38%3a28.014870373%20%2b0000%20UTC%20m%3d%2b0.128096557" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -24,7 +24,7 @@ I have created a GitHub action in the `.github/workflows` directory that runs ev
         <tr>
             <td width="300px">
                 <a href="https://dev.to/jacktt/golang-understanding-unbuffered-and-buffered-channels-35bh">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/2000292/thumbnail?t=2024-11-21%2001%3a58%3a31.120198197%20%2b0000%20UTC%20m%3d%2b0.075780366" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/2000292/thumbnail?t=2024-11-21%2006%3a38%3a28.014870373%20%2b0000%20UTC%20m%3d%2b0.128096557" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -36,7 +36,7 @@ I have created a GitHub action in the `.github/workflows` directory that runs ev
         <tr>
             <td width="300px">
                 <a href="https://dev.to/jacktt/snowflake-schema-vs-star-schema-pros-cons-and-use-cases-34p9">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1997485/thumbnail?t=2024-11-21%2001%3a58%3a31.120198197%20%2b0000%20UTC%20m%3d%2b0.075780366" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1997485/thumbnail?t=2024-11-21%2006%3a38%3a28.014870373%20%2b0000%20UTC%20m%3d%2b0.128096557" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -48,7 +48,7 @@ I have created a GitHub action in the `.github/workflows` directory that runs ev
         <tr>
             <td width="300px">
                 <a href="https://dev.to/jacktt/postgres-isolation-levels-72h">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1997475/thumbnail?t=2024-11-21%2001%3a58%3a31.120198197%20%2b0000%20UTC%20m%3d%2b0.075780366" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1997475/thumbnail?t=2024-11-21%2006%3a38%3a28.014870373%20%2b0000%20UTC%20m%3d%2b0.128096557" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -60,7 +60,7 @@ I have created a GitHub action in the `.github/workflows` directory that runs ev
         <tr>
             <td width="300px">
                 <a href="https://dev.to/jacktt/acid-in-postgres-6h8">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1960352/thumbnail?t=2024-11-21%2001%3a58%3a31.120198197%20%2b0000%20UTC%20m%3d%2b0.075780366" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1960352/thumbnail?t=2024-11-21%2006%3a38%3a28.014870373%20%2b0000%20UTC%20m%3d%2b0.128096557" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -73,7 +73,7 @@ I have created a GitHub action in the `.github/workflows` directory that runs ev
 
 <div align="right">
 
-*Updated at: 2024-11-21T01:58:31Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
+*Updated at: 2024-11-21T06:38:28Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
 
 </div>
 
