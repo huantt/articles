@@ -11,8 +11,20 @@ I have created a GitHub action in the `.github/workflows` directory that runs ev
 <table>
         <tr>
             <td width="300px">
+                <a href="https://dev.to/jacktt/scaling-read-tracking-with-redis-bitmaps-3aip">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/2848339/thumbnail?t=2025-09-17%2018%3a39%3a41.626306579%20%2b0000%20UTC%20m%3d%2b0.333177693" alt="thumbnail">
+                </a>
+            </td>
+            <td>
+                <a href="https://dev.to/jacktt/scaling-read-tracking-with-redis-bitmaps-3aip">Scaling Read Tracking with Redis Bitmaps</a>
+                <div>A friend recently came to me with a problem. They had designed a feature to track whether each user...</div>
+                <div><i>16/09/2025</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px">
                 <a href="https://dev.to/jacktt/aws-lambda-with-go-how-to-build-deploy-and-invoke-1p0o">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/2784089/thumbnail?t=2025-09-17%2012%3a56%3a49.395453573%20%2b0000%20UTC%20m%3d%2b0.104540220" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/2784089/thumbnail?t=2025-09-17%2018%3a39%3a41.626306579%20%2b0000%20UTC%20m%3d%2b0.333177693" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -24,7 +36,7 @@ I have created a GitHub action in the `.github/workflows` directory that runs ev
         <tr>
             <td width="300px">
                 <a href="https://dev.to/jacktt/tracing-error-strack-in-golang-234o">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/2517337/thumbnail?t=2025-09-17%2012%3a56%3a49.395453573%20%2b0000%20UTC%20m%3d%2b0.104540220" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/2517337/thumbnail?t=2025-09-17%2018%3a39%3a41.626306579%20%2b0000%20UTC%20m%3d%2b0.333177693" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -36,7 +48,7 @@ I have created a GitHub action in the `.github/workflows` directory that runs ev
         <tr>
             <td width="300px">
                 <a href="https://dev.to/jacktt/a-better-pkggodev-hip">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/2282180/thumbnail?t=2025-09-17%2012%3a56%3a49.395453573%20%2b0000%20UTC%20m%3d%2b0.104540220" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/2282180/thumbnail?t=2025-09-17%2018%3a39%3a41.626306579%20%2b0000%20UTC%20m%3d%2b0.333177693" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -48,7 +60,7 @@ I have created a GitHub action in the `.github/workflows` directory that runs ev
         <tr>
             <td width="300px">
                 <a href="https://dev.to/jacktt/pod-topology-spread-constraints-2pd7">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/2201593/thumbnail?t=2025-09-17%2012%3a56%3a49.395453573%20%2b0000%20UTC%20m%3d%2b0.104540220" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/2201593/thumbnail?t=2025-09-17%2018%3a39%3a41.626306579%20%2b0000%20UTC%20m%3d%2b0.333177693" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -57,23 +69,11 @@ I have created a GitHub action in the `.github/workflows` directory that runs ev
                 <div><i>12/01/2025</i></div>
             </td>
         </tr>
-        <tr>
-            <td width="300px">
-                <a href="https://dev.to/jacktt/avoid-misunderstanding-on-delete-no-action-gcj">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/2027227/thumbnail?t=2025-09-17%2012%3a56%3a49.395453573%20%2b0000%20UTC%20m%3d%2b0.104540220" alt="thumbnail">
-                </a>
-            </td>
-            <td>
-                <a href="https://dev.to/jacktt/avoid-misunderstanding-on-delete-no-action-gcj">Avoid Misunderstanding ON DELETE NO ACTION</a>
-                <div>Relational databases often provide several options for handling actions when a referenced row in a...</div>
-                <div><i>06/10/2024</i></div>
-            </td>
-        </tr>
 </table>
 
 <div align="right">
 
-*Updated at: 2025-09-17T12:56:49Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
+*Updated at: 2025-09-17T18:39:41Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
 
 </div>
 
