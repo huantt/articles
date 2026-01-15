@@ -11,8 +11,20 @@ I have created a GitHub action in the `.github/workflows` directory that runs ev
 <table>
         <tr>
             <td width="300px">
+                <a href="https://dev.to/jacktt/co-be-ban-diem-phien-ban-2026-618">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/3171293/thumbnail?t=2026-01-15%2013%3a07%3a30.137582272%20%2b0000%20UTC%20m%3d%2b0.026336022" alt="thumbnail">
+                </a>
+            </td>
+            <td>
+                <a href="https://dev.to/jacktt/co-be-ban-diem-phien-ban-2026-618">Cô bé bán diêm phiên bản 2026</a>
+                <div>Đêm đông 2026, văn phòng vắng tanh. Một cậu dev ngồi OT, tay gõ từng dòng code cho kịp deadline: 5...</div>
+                <div><i>14/01/2026</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px">
                 <a href="https://dev.to/jacktt/scaling-read-tracking-with-redis-bitmaps-3aip">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/2848339/thumbnail?t=2026-01-15%2006%3a50%3a53.36651178%20%2b0000%20UTC%20m%3d%2b0.033179140" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/2848339/thumbnail?t=2026-01-15%2013%3a07%3a30.137582272%20%2b0000%20UTC%20m%3d%2b0.026336022" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -24,7 +36,7 @@ I have created a GitHub action in the `.github/workflows` directory that runs ev
         <tr>
             <td width="300px">
                 <a href="https://dev.to/jacktt/aws-lambda-with-go-how-to-build-deploy-and-invoke-1p0o">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/2784089/thumbnail?t=2026-01-15%2006%3a50%3a53.36651178%20%2b0000%20UTC%20m%3d%2b0.033179140" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/2784089/thumbnail?t=2026-01-15%2013%3a07%3a30.137582272%20%2b0000%20UTC%20m%3d%2b0.026336022" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -36,7 +48,7 @@ I have created a GitHub action in the `.github/workflows` directory that runs ev
         <tr>
             <td width="300px">
                 <a href="https://dev.to/jacktt/tracing-error-strack-in-golang-234o">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/2517337/thumbnail?t=2026-01-15%2006%3a50%3a53.36651178%20%2b0000%20UTC%20m%3d%2b0.033179140" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/2517337/thumbnail?t=2026-01-15%2013%3a07%3a30.137582272%20%2b0000%20UTC%20m%3d%2b0.026336022" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -48,7 +60,7 @@ I have created a GitHub action in the `.github/workflows` directory that runs ev
         <tr>
             <td width="300px">
                 <a href="https://dev.to/jacktt/a-better-pkggodev-hip">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/2282180/thumbnail?t=2026-01-15%2006%3a50%3a53.36651178%20%2b0000%20UTC%20m%3d%2b0.033179140" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/2282180/thumbnail?t=2026-01-15%2013%3a07%3a30.137582272%20%2b0000%20UTC%20m%3d%2b0.026336022" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -57,23 +69,11 @@ I have created a GitHub action in the `.github/workflows` directory that runs ev
                 <div><i>16/02/2025</i></div>
             </td>
         </tr>
-        <tr>
-            <td width="300px">
-                <a href="https://dev.to/jacktt/pod-topology-spread-constraints-2pd7">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/2201593/thumbnail?t=2026-01-15%2006%3a50%3a53.36651178%20%2b0000%20UTC%20m%3d%2b0.033179140" alt="thumbnail">
-                </a>
-            </td>
-            <td>
-                <a href="https://dev.to/jacktt/pod-topology-spread-constraints-2pd7">Pod Topology Spread Constraints</a>
-                <div>Pod Topology Spread Constraints   Pod Topology Spread Constraints - a.k.a...</div>
-                <div><i>12/01/2025</i></div>
-            </td>
-        </tr>
 </table>
 
 <div align="right">
 
-*Updated at: 2026-01-15T06:50:53Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
+*Updated at: 2026-01-15T13:07:30Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
 
 </div>
 
