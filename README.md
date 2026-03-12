@@ -11,8 +11,56 @@ I have created a GitHub action in the `.github/workflows` directory that runs ev
 <table>
         <tr>
             <td width="300px">
+                <a href="https://dev.to/jacktt/bmad-cheat-sheet-5ab2">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/3338676/thumbnail?t=2026-03-12%2007%3a13%3a05.337099009%20%2b0000%20UTC%20m%3d%2b0.101132110" alt="thumbnail">
+                </a>
+            </td>
+            <td>
+                <a href="https://dev.to/jacktt/bmad-cheat-sheet-5ab2">BMAD cheat sheet</a>
+                <div>Module 1: BMM (Business Model Management)   The main product development module, designed...</div>
+                <div><i>11/03/2026</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px">
+                <a href="https://dev.to/jacktt/bmad-quick-flow-15en">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/3337898/thumbnail?t=2026-03-12%2007%3a13%3a05.337099009%20%2b0000%20UTC%20m%3d%2b0.101132110" alt="thumbnail">
+                </a>
+            </td>
+            <td>
+                <a href="https://dev.to/jacktt/bmad-quick-flow-15en">BMAD Quick Flow</a>
+                <div>BMAD Quick Flow   Quick Flow is the lean path inside the BMAD Method. It skips the full...</div>
+                <div><i>11/03/2026</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px">
+                <a href="https://dev.to/jacktt/bmad-standard-workflow-2kma">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/3337843/thumbnail?t=2026-03-12%2007%3a13%3a05.337099009%20%2b0000%20UTC%20m%3d%2b0.101132110" alt="thumbnail">
+                </a>
+            </td>
+            <td>
+                <a href="https://dev.to/jacktt/bmad-standard-workflow-2kma">BMAD Standard Workflow</a>
+                <div>BMAD Standard Workflow Guide            Overview   BMAD (Business Methods and Development)...</div>
+                <div><i>11/03/2026</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px">
+                <a href="https://dev.to/jacktt/understanding-the-agents-in-the-bmad-235o">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/3337781/thumbnail?t=2026-03-12%2007%3a13%3a05.337099009%20%2b0000%20UTC%20m%3d%2b0.101132110" alt="thumbnail">
+                </a>
+            </td>
+            <td>
+                <a href="https://dev.to/jacktt/understanding-the-agents-in-the-bmad-235o">Understanding the Agents in the BMAD</a>
+                <div>BMAD Agents   BMAD uses a team of specialized agents, each representing a distinct role in...</div>
+                <div><i>11/03/2026</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px">
                 <a href="https://dev.to/jacktt/co-be-ban-diem-phien-ban-2026-618">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/3171293/thumbnail?t=2026-03-12%2003%3a11%3a10.488060966%20%2b0000%20UTC%20m%3d%2b0.031088936" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/3171293/thumbnail?t=2026-03-12%2007%3a13%3a05.337099009%20%2b0000%20UTC%20m%3d%2b0.101132110" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -21,59 +69,11 @@ I have created a GitHub action in the `.github/workflows` directory that runs ev
                 <div><i>14/01/2026</i></div>
             </td>
         </tr>
-        <tr>
-            <td width="300px">
-                <a href="https://dev.to/jacktt/scaling-read-tracking-with-redis-bitmaps-3aip">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/2848339/thumbnail?t=2026-03-12%2003%3a11%3a10.488060966%20%2b0000%20UTC%20m%3d%2b0.031088936" alt="thumbnail">
-                </a>
-            </td>
-            <td>
-                <a href="https://dev.to/jacktt/scaling-read-tracking-with-redis-bitmaps-3aip">Scaling Read Tracking with Redis Bitmaps</a>
-                <div>A friend recently came to me with a problem. They had designed a feature to track whether each user...</div>
-                <div><i>16/09/2025</i></div>
-            </td>
-        </tr>
-        <tr>
-            <td width="300px">
-                <a href="https://dev.to/jacktt/aws-lambda-with-go-how-to-build-deploy-and-invoke-1p0o">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/2784089/thumbnail?t=2026-03-12%2003%3a11%3a10.488060966%20%2b0000%20UTC%20m%3d%2b0.031088936" alt="thumbnail">
-                </a>
-            </td>
-            <td>
-                <a href="https://dev.to/jacktt/aws-lambda-with-go-how-to-build-deploy-and-invoke-1p0o">AWS Lambda with Go - How to Build, Deploy, and...</a>
-                <div>Build, Deploy, and Invoke AWS Lambda Functions in Golang            1. Initialize Lambda...</div>
-                <div><i>20/08/2025</i></div>
-            </td>
-        </tr>
-        <tr>
-            <td width="300px">
-                <a href="https://dev.to/jacktt/tracing-error-strack-in-golang-234o">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/2517337/thumbnail?t=2026-03-12%2003%3a11%3a10.488060966%20%2b0000%20UTC%20m%3d%2b0.031088936" alt="thumbnail">
-                </a>
-            </td>
-            <td>
-                <a href="https://dev.to/jacktt/tracing-error-strack-in-golang-234o">Tracing error strack in Golang</a>
-                <div>Problem: No Stack Trace in Native Errors   Consider this Go snippet:    func function3()...</div>
-                <div><i>23/05/2025</i></div>
-            </td>
-        </tr>
-        <tr>
-            <td width="300px">
-                <a href="https://dev.to/jacktt/a-better-pkggodev-hip">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/2282180/thumbnail?t=2026-03-12%2003%3a11%3a10.488060966%20%2b0000%20UTC%20m%3d%2b0.031088936" alt="thumbnail">
-                </a>
-            </td>
-            <td>
-                <a href="https://dev.to/jacktt/a-better-pkggodev-hip">A better pkg.go.dev</a>
-                <div>About pkgo.dev   I have never been able to read a package&#39;s documentation on pkg.go.dev...</div>
-                <div><i>16/02/2025</i></div>
-            </td>
-        </tr>
 </table>
 
 <div align="right">
 
-*Updated at: 2026-03-12T03:11:10Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
+*Updated at: 2026-03-12T07:13:05Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
 
 </div>
 
