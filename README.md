@@ -12,7 +12,7 @@ I have created a GitHub action in the `.github/workflows` directory that runs ev
         <tr>
             <td width="300px">
                 <a href="https://dev.to/jacktt/how-i-segmented-millions-of-users-in-just-a-few-milliseconds-4hmd">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/4302843/thumbnail?t=2026-10-24%2020%3a48%3a32.239919609%20%2b0000%20UTC%20m%3d%2b0.129558860" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/4302843/thumbnail?t=2026-10-25%2004%3a39%3a51.270723581%20%2b0000%20UTC%20m%3d%2b0.093610491" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -24,7 +24,7 @@ I have created a GitHub action in the `.github/workflows` directory that runs ev
         <tr>
             <td width="300px">
                 <a href="https://dev.to/jacktt/graphql-la-gi-tai-sao-nen-dung-cho-social-app-ihj">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/3714881/thumbnail?t=2026-10-24%2020%3a48%3a32.239919609%20%2b0000%20UTC%20m%3d%2b0.129558860" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/3714881/thumbnail?t=2026-10-25%2004%3a39%3a51.270723581%20%2b0000%20UTC%20m%3d%2b0.093610491" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -36,7 +36,7 @@ I have created a GitHub action in the `.github/workflows` directory that runs ev
         <tr>
             <td width="300px">
                 <a href="https://dev.to/jacktt/bmad-cheat-sheet-5ab2">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/3338676/thumbnail?t=2026-10-24%2020%3a48%3a32.239919609%20%2b0000%20UTC%20m%3d%2b0.129558860" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/3338676/thumbnail?t=2026-10-25%2004%3a39%3a51.270723581%20%2b0000%20UTC%20m%3d%2b0.093610491" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -48,7 +48,7 @@ I have created a GitHub action in the `.github/workflows` directory that runs ev
         <tr>
             <td width="300px">
                 <a href="https://dev.to/jacktt/bmad-quick-flow-15en">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/3337898/thumbnail?t=2026-10-24%2020%3a48%3a32.239919609%20%2b0000%20UTC%20m%3d%2b0.129558860" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/3337898/thumbnail?t=2026-10-25%2004%3a39%3a51.270723581%20%2b0000%20UTC%20m%3d%2b0.093610491" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -60,7 +60,7 @@ I have created a GitHub action in the `.github/workflows` directory that runs ev
         <tr>
             <td width="300px">
                 <a href="https://dev.to/jacktt/bmad-standard-workflow-2kma">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/3337843/thumbnail?t=2026-10-24%2020%3a48%3a32.239919609%20%2b0000%20UTC%20m%3d%2b0.129558860" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/3337843/thumbnail?t=2026-10-25%2004%3a39%3a51.270723581%20%2b0000%20UTC%20m%3d%2b0.093610491" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -73,7 +73,7 @@ I have created a GitHub action in the `.github/workflows` directory that runs ev
 
 <div align="right">
 
-*Updated at: 2026-10-24T20:48:32Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
+*Updated at: 2026-10-25T04:39:51Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
 
 </div>
 
